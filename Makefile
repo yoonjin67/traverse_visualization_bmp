@@ -1,4 +1,4 @@
-CC=g++
+CXX=g++
 OBJS = bmp_class.o datatypes.o main.o
 TARGET=main
 $(TARGET): $(OBJS)
