@@ -48,4 +48,4 @@ int main() {
 
 탐색에 대해 보다 자세하게 설명한, 알고리즘 중심으로 설명하는 게시물을 보고 싶다면 아래를 참고하세요.
 
-![BFS와-DFS-시각화.html](https://yoonjin67.github.io/blog/2025/05/09/BFS%EC%99%80-DFS-%EC%8B%9C%EA%B0%81%ED%99%94.html)
+[BFS와-DFS-시각화](https://yoonjin67.github.io/blog/2025/05/09/BFS%EC%99%80-DFS-%EC%8B%9C%EA%B0%81%ED%99%94.html)
