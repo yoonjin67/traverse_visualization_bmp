@@ -3,7 +3,6 @@
 ## Datatypes
 
 ![Datatypes HPP](./datatypes.hpp)
-
 ![Datatypes CPP](./datatypes.cpp)
 
 데이터 타입이 정의되어 있는 부분입니다.
@@ -15,8 +14,8 @@
 ## Bitmap Namespace
 
 ![Bitmap Namespace HPP](./bmp_ns.hpp)
-
 ![Bitmap Namespace CPP](./bmp_ns.cpp)
+
 비트맵 네임스페이스의 안에 BFS, DFS 메서드가 포함되어 있습니다.
 이는 main.cpp를 간소화하고 코드 자체의 목적이 탐색과 Bitmap을 따로 구현하는 것이 아니기 때문입니다.
 탐색에 필요한 함수들과 이미지 작업에 대해 정의되어 있습니다.
