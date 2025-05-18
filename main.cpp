@@ -1,4 +1,4 @@
-#include "bmp_class.hpp"
+#include "bmp_ns.hpp"
 using namespace std;
 using namespace bitmap;
 int main() {

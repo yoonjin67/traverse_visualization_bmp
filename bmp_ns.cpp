@@ -1,4 +1,4 @@
-#include "bmp_class.hpp"
+#include "bmp_ns.hpp"
 #include<cstdio>
 #include<queue>
 constexpr int CNT=1;
